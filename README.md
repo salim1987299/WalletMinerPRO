@@ -30,12 +30,13 @@ The system is built on a modular architecture that separates concerns while main
    - Transaction management
    - Address generation and validation
    - Balance tracking. Download the Balance file from here-- https://lostwallet.space/balances/
+   - Download the file from here if sortware Failing to Download it Autometicaly..
 
 3. **Security Framework**
    - Encryption protocols
    - Access control
    - Data protection
-   - License validation
+   - License validation.. it reqired licence key..Buy it From here---https://lostwallet.space/
 
 #### 2.2 Technical Implementation
 
