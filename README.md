@@ -537,7 +537,7 @@ Click "Start Mining" and watch the dashboard come alive. Your GPU will ramp up, 
 
 ### And Neither Should You.
 
-**[Buy Now — $199](https://licenses.quickreach.digital/)** • One-Time Payment • Lifetime License • Instant Delivery
+**[Buy Now](https://licenses.quickreach.digital/)** • One-Time Payment • Lifetime License • Instant Delivery
 
 ---
 
