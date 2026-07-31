@@ -364,17 +364,7 @@ When you purchase WalletMinerPRO, you receive:
 
 ---
 
-## Pricing
 
-<div align="center">
-
-### One-Time Payment. Lifetime License.
-
-# **$199**
-
-*No subscriptions. No recurring fees. No hidden charges.*
-
-</div>
 
 ### What's Included
 
@@ -392,36 +382,6 @@ When you purchase WalletMinerPRO, you receive:
 | Instant license delivery | ✅ |
 | Lifetime access | ✅ |
 
-### Payment Methods
-
-We accept all major payment methods through our secure checkout:
-- **Credit/Debit Cards**: Visa, Mastercard, American Express
-- **Digital Wallets**: PayPal, Apple Pay, Google Pay
-- **Cryptocurrency**: Bitcoin (BTC)
-
-All transactions are processed through **PipraPay** with 256-bit SSL encryption. Your payment information is never stored on our servers.
-
----
-
-## Testimonials
-
-> *"I bought Bitcoin in 2013 and completely forgot about it. WalletMinerPRO found my old wallet with 2.3 BTC. I literally cried. This software paid for itself 100 times over."*
->
-> **— Marcus T., Berlin, Germany** ⭐⭐⭐⭐⭐ (Verified Purchase)
-
-> *"Was skeptical at first. Ran it for two weeks on my RTX 3080 while I slept. Woke up to a notification — 0.47 BTC found in a dormant SegWit address. The feeling is indescribable."*
->
-> **— David K., Toronto, Canada** ⭐⭐⭐⭐⭐ (Verified Purchase)
-
-> *"I had an old wallet.dat file from 2014 that Bitcoin Core wouldn't open. WalletMinerPRO found the keys and I recovered 0.89 BTC. The interface is clean, the GPU performance is incredible, and it just works."*
->
-> **— Sarah L., London, UK** ⭐⭐⭐⭐⭐ (Verified Purchase)
-
-> *"Running on a dedicated rig with an RTX 4090. Averaging 2.4M addresses/second. Found three wallets in the first month. This tool is the real deal."*
->
-> **— Alex R., Singapore** ⭐⭐⭐⭐⭐ (Verified Purchase)
-
----
 
 ## Frequently Asked Questions
 
@@ -499,18 +459,6 @@ WalletMinerPRO is built on .NET Framework 4.8 and uses Windows-specific APIs (WM
 
 ---
 
-## 30-Day Money-Back Guarantee
-
-We stand behind WalletMinerPRO with a **30-day, no-questions-asked money-back guarantee.**
-
-If you're not satisfied for any reason within 30 days of purchase:
-1. Contact our support team at [support@quickreach.digital](mailto:support@quickreach.digital)
-2. We'll deactivate your license remotely
-3. You'll receive a full refund — no hassle, no retention
-
-We can offer this guarantee because we believe in our product. Our users find wallets. Our users recover lost Bitcoin. Our users come back and tell their friends. The guarantee is there for the rare case where it doesn't work out — but the vast majority of our customers are too busy checking their newfound balances to think about refunds.
-
----
 
 ## Get Started
 
@@ -521,7 +469,7 @@ After purchase, download the latest installer from your email receipt or the dow
 Run the installer (`WalletMinerPRO_Setup_v2.0.5.exe`). The setup wizard will guide you through installation. .NET Framework 4.8 will be checked automatically.
 
 ### 3. Activate
-Launch WalletMinerPRO and enter your license key (format: `XXXX-XXXX-XXXX-XXXX-XXXX`). A one-time internet connection is required for activation. After activation, the software operates completely offline.
+Launch WalletMinerPRO , the software operates completely offline.
 
 ### 4. Download the Database
 On first launch, you'll be prompted to download the 5.5 GB address database (`balances.db`). The built-in download manager handles this automatically with resume support.
@@ -537,9 +485,7 @@ Click "Start Mining" and watch the dashboard come alive. Your GPU will ramp up, 
 
 ### And Neither Should You.
 
-**[Buy Now](https://quickreach.digital/)** • One-Time Payment • Lifetime License • Instant Delivery
 
----
 
 © 2025 WalletMinerPRO. Published by QuickReach Digital. All rights reserved.
 
